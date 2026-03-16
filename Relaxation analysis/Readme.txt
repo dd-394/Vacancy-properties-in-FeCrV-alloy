@@ -1,0 +1,1 @@
+The parameters relaxation energy (ΔE), atomic movement induced by vacancy and force are recorded in the following excel table. And all statistics are extracted from the OUTCAR-rlx.
