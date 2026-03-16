@@ -11,3 +11,6 @@ charge.py – Functions to read and normalize CHGCAR charge density files, and c
 envirCalc.py – Neighbor search and classification (first to fourth nearest neighbors) with export to Excel.
 
 These scripts were used in the manuscript to process the raw data from 128 vacancy configurations.
+
+
+This repository also contains the dataset of Charge redistrbution (Chapter 3.2.1), Relaxation analysis (Chapter 3.2.1), Vacancy formation energy (Chapter 3.1) and Vacancy migration energy (Chapter 3.1). 
